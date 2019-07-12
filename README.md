@@ -1,2 +1,2 @@
-# MVVMDemo
+# MVVM Demo
 MVVM Structure Example
